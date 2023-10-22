@@ -47,3 +47,15 @@ footer li {
   display: inline-block;
   padding: 0px 7px;
 }
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+}
+.logo {
+  width: 23%;
+  padding: 1%;
+}
+nav {
+  width: 73%;
+  padding: 1%;
+}
