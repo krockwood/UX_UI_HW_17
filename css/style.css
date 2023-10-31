@@ -2,7 +2,7 @@ body {
   margin: 0;
 }
 header {
-  background-color: #373738;
+  background-color: #6e745d;
   padding: 15px;
 }
 header ul {
@@ -17,25 +17,25 @@ header p {
   display: inline-block;
 }
 .heroImg {
-  background-color: #EBEBEB;
+  background-color: #b4a08d;
   padding: 100px 15px;
 }
 .content {
   max-width: 300px;
   margin: 0 auto;
   padding: 50px;
-  background-color: #FFFFFF;
+  background-color: #c2b7b2;
   text-align: center;
 }
 button {
   padding: 15px;
   background-color: #373738;
-  color: white;
+  color: #c2b7b2;
   font-size: 15px;
   border-radius: 4px;
 }
 footer {
-  background-color: #373738;
+  background-color: #6e745d;
   padding: 5px;
   color: white;
 }
